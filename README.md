@@ -30,8 +30,10 @@
 
   <!-- MY Stats -->
    
-  <p align="center">
+  <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-7485&count_private=true&theme=novatorem" />
+      <p/>
+  <p>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-7485&theme=github" />
   </p>
 
