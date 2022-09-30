@@ -35,7 +35,6 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-7485&theme=github" />
   </p>
 
-  <br />
   <hr />
 
   <!-- My Tech Toolbox -->
