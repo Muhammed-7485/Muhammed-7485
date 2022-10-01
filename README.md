@@ -1,9 +1,24 @@
   <!-- welcome -->
   <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26" /></h1>
 
-  <h3 align="center">Software Engineering Student</h3>
+  <h3 align="center">A Software Engineering Student</h3>
 
+<!-- Reach me -->
+<div align="center">
+  <a href="mailto:mohammed20snd@gmail.com@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-b23121?logo=Gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</div>
 
+<!-- Reach me -->
+<div align="center">
+ <a href="https://codeforces.com/profile/Thunder_23">
+    <img src="https://img.shields.io/badge/Codeforces-b51c24?logo=codeforces&logoColor=white&style=for-the-badge" alt="CodeForces" />
+  </a>
+  <a href="https://www.hackerrank.com/Mohamed_Sanad">
+    <img src="https://img.shields.io/badge/Hackerrank-2ec866?logo=hackerrank&logoColor=white&style=for-the-badge" alt="HackerRank" />
+  </a>
+ 
    <!-- Views Counter -->
   </div>
   <div align="center">
@@ -21,7 +36,7 @@
    <li>🧲 Seeking for knowledge & acquiring new skills.</li>
    <li>📌 I'm currently learning Front-end.</li>
    <li>🤝 I'm looking to collaborate on open source projects.</li>
-   <li>😄 I’m available for freelancing.</li>
+   <li>😄 For any work, contact me.</li>
    
   </ul>
 
