@@ -45,8 +45,8 @@
 
   <!-- MY Stats -->
    
-  <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-7485&count_private=true&theme=novatorem" />
+ <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-7485&count_private=true&layout=compact&theme=novatorem"/>
       <p/>
   <p>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-7485&theme=github" />
